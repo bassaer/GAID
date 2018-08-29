@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GAID</string>
+    <string name="error">Error</string>
+    <string name="copied">Copied!</string>
 </resources>
